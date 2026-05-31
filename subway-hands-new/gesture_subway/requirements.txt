@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+scikit-learn
+numpy
+pandas
+matplotlib
+joblib
+comtypes
+pycaw
